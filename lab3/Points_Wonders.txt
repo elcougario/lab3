@@ -1,0 +1,203 @@
+"type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Great Pyramid of Giza",
+                        "Period": "Old World"
+                    },
+                    "geometry": {
+                        "coordinates": [
+                            31.13418908201885,
+                            29.979196055767687
+                        ],
+                        "type": "Point"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Lighthouse of Alexandria",
+                        "Period": "Old World"
+                    },
+                    "geometry": {
+                        "coordinates": [
+                            29.824670493706265,
+                            31.13829837181204
+                        ],
+                        "type": "Point"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Colossus of Rhodes",
+                        "Period": "Old World"
+                    },
+                    "geometry": {
+                        "coordinates": [
+                            27.138905377715957,
+                            36.613876220964556
+                        ],
+                        "type": "Point"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Mausoleum of Halicarnassus",
+                        "Period": "Old World"
+                    },
+                    "geometry": {
+                        "coordinates": [
+                            27.42463668733174,
+                            37.03670806086441
+                        ],
+                        "type": "Point"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Statue of Zeus at Olympia",
+                        "Period": "Old World"
+                    },
+                    "geometry": {
+                        "coordinates": [
+                            21.629108782411294,
+                            37.639406430375246
+                        ],
+                        "type": "Point"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Hanging Gardens of Babylon",
+                        "Period": "Old World"
+                    },
+                    "geometry": {
+                        "coordinates": [
+                            44.419534620511,
+                            32.5409001795539
+                        ],
+                        "type": "Point"
+                        
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "name": "Temple of Artemis",
+                        "Period": "Old World"
+                    },
+                    "geometry": {
+                        "coordinates": [
+                            27.363847085243833,
+                            37.949680032722114
+                        ],
+                        "type": "Point"
+                    }
+                },
+//Geographic Location of New Wonders//
+
+                {
+                    "type": "Feature",
+                    "properties": {
+                    "name": "Chichen Itza",
+                    "Period": "New World"
+                    },
+                    "geometry": {
+                      "coordinates": [
+                        -88.56864508911947,
+                        20.682968095660243
+                      ],
+                      "type": "Point"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                    "name":"Rome Colosseum",
+                    "Period": "New World"
+                    },
+                    "geometry": {
+                      "coordinates": [
+                        12.492206511865504,
+                        41.89059299331748
+                      ],
+                      "type": "Point"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                    "name":"Great Wall of China",
+                    "Period": "New World"
+                    },
+                    "geometry": {
+                      "coordinates": [
+                        116.53852172137641,
+                        40.41626093595181
+                      ],
+                      "type": "Point"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                    "name":"Christ the Redeemer",
+                    "Period": "New World"
+                    },
+                    "geometry": {
+                      "coordinates": [
+                        -43.21108192511821,
+                        -22.952247416191398
+                      ],
+                      "type": "Point"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                    "name":"Machu Picchu",
+                    "Period": "New World"
+                    },
+                    "geometry": {
+                      "coordinates": [
+                        -72.54527308136444,
+                        -13.164173671354575
+                      ],
+                      "type": "Point"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                    "name":"Petra",
+                    "Period": "New World"
+                    },
+                    "geometry": {
+                      "coordinates": [
+                        35.44445131861758,
+                        30.32693480123848
+                      ],
+                      "type": "Point"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                    "name":"Taj Mahal",
+                    "Period": "New World"
+                    },
+                    "geometry": {
+                      "coordinates": [
+                        78.04216158465852,
+                        27.17466673736
+                      ],
+                      "type": "Point"
+                    }
+                }
+
+            ]
